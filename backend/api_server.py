@@ -1,4 +1,5 @@
 # File: backend/api_server.py
+# Test comment added to demonstrate git workflow
 import os
 import sqlite3
 from flask import Flask, jsonify, request
